@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "noImplicitAny": true,
+        "module": "es6",
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "target": "es2015",
+        "moduleResolution": "node",
+        "strict": true,
+        "jsx": "react"
+    },
+    "include": ["src/**/*.*"]
+}
