@@ -1,0 +1,27 @@
+{
+    "private": true,
+    "scripts": {
+        "start": "yarn run build",
+        "poststart": "yarn run server",
+        "build": "webpack --config webpack.config.js",
+        "server": "http-server"
+    },
+    "dependencies": {
+        "babel": "^6.23.0",
+        "babel-core": "^6.26.3",
+        "babel-loader": "^7.1.4",
+        "babel-preset-env": "^1.7.0",
+        "babel-preset-react": "^6.24.1",
+        "classnames": "^2.2.6",
+        "express": "^4.16.3",
+        "http-server": "^0.11.1",
+        "prettier": "^1.13.5",
+        "react": "^16.4.1",
+        "react-dom": "^16.4.1",
+        "react-router-dom": "^4.3.1",
+        "ts-loader": "^4.4.1",
+        "typescript": "^2.9.2",
+        "webpack": "^4.12.0",
+        "webpack-cli": "^3.0.7"
+    }
+}

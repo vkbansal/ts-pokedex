@@ -1,0 +1,343 @@
+[
+    {
+        "id": "001",
+        "name": "Bulbasaur",
+        "imgSrc": "/img/001Bulbasaur.png",
+        "type": ["Grass", "Poison"]
+    },
+    {
+        "id": "002",
+        "name": "Ivysaur",
+        "imgSrc": "/img/002Ivysaur.png",
+        "type": ["Grass", "Poison"]
+    },
+    {
+        "id": "003",
+        "name": "Venusaur",
+        "imgSrc": "/img/003Venusaur.png",
+        "type": ["Grass", "Poison"]
+    },
+    { "id": "004", "name": "Charmander", "imgSrc": "/img/004Charmander.png", "type": ["Fire"] },
+    { "id": "005", "name": "Charmeleon", "imgSrc": "/img/005Charmeleon.png", "type": ["Fire"] },
+    {
+        "id": "006",
+        "name": "Charizard",
+        "imgSrc": "/img/006Charizard.png",
+        "type": ["Fire", "Flying"]
+    },
+    { "id": "007", "name": "Squirtle", "imgSrc": "/img/007Squirtle.png", "type": ["Water"] },
+    { "id": "008", "name": "Wartortle", "imgSrc": "/img/008Wartortle.png", "type": ["Water"] },
+    { "id": "009", "name": "Blastoise", "imgSrc": "/img/009Blastoise.png", "type": ["Water"] },
+    { "id": "010", "name": "Caterpie", "imgSrc": "/img/010Caterpie.png", "type": ["Bug"] },
+    { "id": "011", "name": "Metapod", "imgSrc": "/img/011Metapod.png", "type": ["Bug"] },
+    {
+        "id": "012",
+        "name": "Butterfree",
+        "imgSrc": "/img/012Butterfree.png",
+        "type": ["Bug", "Flying"]
+    },
+    { "id": "013", "name": "Weedle", "imgSrc": "/img/013Weedle.png", "type": ["Bug", "Poison"] },
+    { "id": "014", "name": "Kakuna", "imgSrc": "/img/014Kakuna.png", "type": ["Bug", "Poison"] },
+    {
+        "id": "015",
+        "name": "Beedrill",
+        "imgSrc": "/img/015Beedrill.png",
+        "type": ["Bug", "Poison"]
+    },
+    { "id": "016", "name": "Pidgey", "imgSrc": "/img/016Pidgey.png", "type": ["Normal", "Flying"] },
+    {
+        "id": "017",
+        "name": "Pidgeotto",
+        "imgSrc": "/img/017Pidgeotto.png",
+        "type": ["Normal", "Flying"]
+    },
+    {
+        "id": "018",
+        "name": "Pidgeot",
+        "imgSrc": "/img/018Pidgeot.png",
+        "type": ["Normal", "Flying"]
+    },
+    { "id": "019", "name": "Rattata", "imgSrc": "/img/019Rattata.png", "type": ["Normal"] },
+    { "id": "020", "name": "Raticate", "imgSrc": "/img/020Raticate.png", "type": ["Normal"] },
+    {
+        "id": "021",
+        "name": "Spearow",
+        "imgSrc": "/img/021Spearow.png",
+        "type": ["Normal", "Flying"]
+    },
+    { "id": "022", "name": "Fearow", "imgSrc": "/img/022Fearow.png", "type": ["Normal", "Flying"] },
+    { "id": "023", "name": "Ekans", "imgSrc": "/img/023Ekans.png", "type": ["Poison"] },
+    { "id": "024", "name": "Arbok", "imgSrc": "/img/024Arbok.png", "type": ["Poison"] },
+    { "id": "025", "name": "Pikachu", "imgSrc": "/img/025Pikachu.png", "type": ["Electric"] },
+    { "id": "026", "name": "Raichu", "imgSrc": "/img/026Raichu.png", "type": ["Electric"] },
+    { "id": "027", "name": "Sandshrew", "imgSrc": "/img/027Sandshrew.png", "type": ["Ground"] },
+    { "id": "028", "name": "Sandslash", "imgSrc": "/img/028Sandslash.png", "type": ["Ground"] },
+    { "id": "029", "name": "Nidoran♀", "imgSrc": "/img/029Nidoran.png", "type": ["Poison"] },
+    { "id": "030", "name": "Nidorina", "imgSrc": "/img/030Nidorina.png", "type": ["Poison"] },
+    {
+        "id": "031",
+        "name": "Nidoqueen",
+        "imgSrc": "/img/031Nidoqueen.png",
+        "type": ["Poison", "Ground"]
+    },
+    { "id": "032", "name": "Nidoran♂", "imgSrc": "/img/032Nidoran.png", "type": ["Poison"] },
+    { "id": "033", "name": "Nidorino", "imgSrc": "/img/033Nidorino.png", "type": ["Poison"] },
+    {
+        "id": "034",
+        "name": "Nidoking",
+        "imgSrc": "/img/034Nidoking.png",
+        "type": ["Poison", "Ground"]
+    },
+    { "id": "035", "name": "Clefairy", "imgSrc": "/img/035Clefairy.png", "type": ["Fairy"] },
+    { "id": "036", "name": "Clefable", "imgSrc": "/img/036Clefable.png", "type": ["Fairy"] },
+    { "id": "037", "name": "Vulpix", "imgSrc": "/img/037Vulpix.png", "type": ["Fire"] },
+    { "id": "038", "name": "Ninetales", "imgSrc": "/img/038Ninetales.png", "type": ["Fire"] },
+    {
+        "id": "039",
+        "name": "Jigglypuff",
+        "imgSrc": "/img/039Jigglypuff.png",
+        "type": ["Normal", "Fairy"]
+    },
+    {
+        "id": "040",
+        "name": "Wigglytuff",
+        "imgSrc": "/img/040Wigglytuff.png",
+        "type": ["Normal", "Fairy"]
+    },
+    { "id": "041", "name": "Zubat", "imgSrc": "/img/041Zubat.png", "type": ["Poison", "Flying"] },
+    { "id": "042", "name": "Golbat", "imgSrc": "/img/042Golbat.png", "type": ["Poison", "Flying"] },
+    { "id": "043", "name": "Oddish", "imgSrc": "/img/043Oddish.png", "type": ["Grass", "Poison"] },
+    { "id": "044", "name": "Gloom", "imgSrc": "/img/044Gloom.png", "type": ["Grass", "Poison"] },
+    {
+        "id": "045",
+        "name": "Vileplume",
+        "imgSrc": "/img/045Vileplume.png",
+        "type": ["Grass", "Poison"]
+    },
+    { "id": "046", "name": "Paras", "imgSrc": "/img/046Paras.png", "type": ["Bug", "Grass"] },
+    { "id": "047", "name": "Parasect", "imgSrc": "/img/047Parasect.png", "type": ["Bug", "Grass"] },
+    { "id": "048", "name": "Venonat", "imgSrc": "/img/048Venonat.png", "type": ["Bug", "Poison"] },
+    {
+        "id": "049",
+        "name": "Venomoth",
+        "imgSrc": "/img/049Venomoth.png",
+        "type": ["Bug", "Poison"]
+    },
+    { "id": "050", "name": "Diglett", "imgSrc": "/img/050Diglett.png", "type": ["Ground"] },
+    { "id": "051", "name": "Dugtrio", "imgSrc": "/img/051Dugtrio.png", "type": ["Ground"] },
+    { "id": "052", "name": "Meowth", "imgSrc": "/img/052Meowth.png", "type": ["Normal"] },
+    { "id": "053", "name": "Persian", "imgSrc": "/img/053Persian.png", "type": ["Normal"] },
+    { "id": "054", "name": "Psyduck", "imgSrc": "/img/054Psyduck.png", "type": ["Water"] },
+    { "id": "055", "name": "Golduck", "imgSrc": "/img/055Golduck.png", "type": ["Water"] },
+    { "id": "056", "name": "Mankey", "imgSrc": "/img/056Mankey.png", "type": ["Fighting"] },
+    { "id": "057", "name": "Primeape", "imgSrc": "/img/057Primeape.png", "type": ["Fighting"] },
+    { "id": "058", "name": "Growlithe", "imgSrc": "/img/058Growlithe.png", "type": ["Fire"] },
+    { "id": "059", "name": "Arcanine", "imgSrc": "/img/059Arcanine.png", "type": ["Fire"] },
+    { "id": "060", "name": "Poliwag", "imgSrc": "/img/060Poliwag.png", "type": ["Water"] },
+    { "id": "061", "name": "Poliwhirl", "imgSrc": "/img/061Poliwhirl.png", "type": ["Water"] },
+    {
+        "id": "062",
+        "name": "Poliwrath",
+        "imgSrc": "/img/062Poliwrath.png",
+        "type": ["Water", "Fighting"]
+    },
+    { "id": "063", "name": "Abra", "imgSrc": "/img/063Abra.png", "type": ["Psychic"] },
+    { "id": "064", "name": "Kadabra", "imgSrc": "/img/064Kadabra.png", "type": ["Psychic"] },
+    { "id": "065", "name": "Alakazam", "imgSrc": "/img/065Alakazam.png", "type": ["Psychic"] },
+    { "id": "066", "name": "Machop", "imgSrc": "/img/066Machop.png", "type": ["Fighting"] },
+    { "id": "067", "name": "Machoke", "imgSrc": "/img/067Machoke.png", "type": ["Fighting"] },
+    { "id": "068", "name": "Machamp", "imgSrc": "/img/068Machamp.png", "type": ["Fighting"] },
+    {
+        "id": "069",
+        "name": "Bellsprout",
+        "imgSrc": "/img/069Bellsprout.png",
+        "type": ["Grass", "Poison"]
+    },
+    {
+        "id": "070",
+        "name": "Weepinbell",
+        "imgSrc": "/img/070Weepinbell.png",
+        "type": ["Grass", "Poison"]
+    },
+    {
+        "id": "071",
+        "name": "Victreebel",
+        "imgSrc": "/img/071Victreebel.png",
+        "type": ["Grass", "Poison"]
+    },
+    {
+        "id": "072",
+        "name": "Tentacool",
+        "imgSrc": "/img/072Tentacool.png",
+        "type": ["Water", "Poison"]
+    },
+    {
+        "id": "073",
+        "name": "Tentacruel",
+        "imgSrc": "/img/073Tentacruel.png",
+        "type": ["Water", "Poison"]
+    },
+    { "id": "074", "name": "Geodude", "imgSrc": "/img/074Geodude.png", "type": ["Rock", "Ground"] },
+    {
+        "id": "075",
+        "name": "Graveler",
+        "imgSrc": "/img/075Graveler.png",
+        "type": ["Rock", "Ground"]
+    },
+    { "id": "076", "name": "Golem", "imgSrc": "/img/076Golem.png", "type": ["Rock", "Ground"] },
+    { "id": "077", "name": "Ponyta", "imgSrc": "/img/077Ponyta.png", "type": ["Fire"] },
+    { "id": "078", "name": "Rapidash", "imgSrc": "/img/078Rapidash.png", "type": ["Fire"] },
+    {
+        "id": "079",
+        "name": "Slowpoke",
+        "imgSrc": "/img/079Slowpoke.png",
+        "type": ["Water", "Psychic"]
+    },
+    {
+        "id": "080",
+        "name": "Slowbro",
+        "imgSrc": "/img/080Slowbro.png",
+        "type": ["Water", "Psychic"]
+    },
+    {
+        "id": "081",
+        "name": "Magnemite",
+        "imgSrc": "/img/081Magnemite.png",
+        "type": ["Electric", "Steel"]
+    },
+    {
+        "id": "082",
+        "name": "Magneton",
+        "imgSrc": "/img/082Magneton.png",
+        "type": ["Electric", "Steel"]
+    },
+    {
+        "id": "083",
+        "name": "Farfetch'd",
+        "imgSrc": "/img/083Farfetchd.png",
+        "type": ["Normal", "Flying"]
+    },
+    { "id": "084", "name": "Doduo", "imgSrc": "/img/084Doduo.png", "type": ["Normal", "Flying"] },
+    { "id": "085", "name": "Dodrio", "imgSrc": "/img/085Dodrio.png", "type": ["Normal", "Flying"] },
+    { "id": "086", "name": "Seel", "imgSrc": "/img/086Seel.png", "type": ["Water"] },
+    { "id": "087", "name": "Dewgong", "imgSrc": "/img/087Dewgong.png", "type": ["Water", "Ice"] },
+    { "id": "088", "name": "Grimer", "imgSrc": "/img/088Grimer.png", "type": ["Poison"] },
+    { "id": "089", "name": "Muk", "imgSrc": "/img/089Muk.png", "type": ["Poison"] },
+    { "id": "090", "name": "Shellder", "imgSrc": "/img/090Shellder.png", "type": ["Water"] },
+    { "id": "091", "name": "Cloyster", "imgSrc": "/img/091Cloyster.png", "type": ["Water", "Ice"] },
+    { "id": "092", "name": "Gastly", "imgSrc": "/img/092Gastly.png", "type": ["Ghost", "Poison"] },
+    {
+        "id": "093",
+        "name": "Haunter",
+        "imgSrc": "/img/093Haunter.png",
+        "type": ["Ghost", "Poison"]
+    },
+    { "id": "094", "name": "Gengar", "imgSrc": "/img/094Gengar.png", "type": ["Ghost", "Poison"] },
+    { "id": "095", "name": "Onix", "imgSrc": "/img/095Onix.png", "type": ["Rock", "Ground"] },
+    { "id": "096", "name": "Drowzee", "imgSrc": "/img/096Drowzee.png", "type": ["Psychic"] },
+    { "id": "097", "name": "Hypno", "imgSrc": "/img/097Hypno.png", "type": ["Psychic"] },
+    { "id": "098", "name": "Krabby", "imgSrc": "/img/098Krabby.png", "type": ["Water"] },
+    { "id": "099", "name": "Kingler", "imgSrc": "/img/099Kingler.png", "type": ["Water"] },
+    { "id": "100", "name": "Voltorb", "imgSrc": "/img/100Voltorb.png", "type": ["Electric"] },
+    { "id": "101", "name": "Electrode", "imgSrc": "/img/101Electrode.png", "type": ["Electric"] },
+    {
+        "id": "102",
+        "name": "Exeggcute",
+        "imgSrc": "/img/102Exeggcute.png",
+        "type": ["Grass", "Psychic"]
+    },
+    {
+        "id": "103",
+        "name": "Exeggutor",
+        "imgSrc": "/img/103Exeggutor.png",
+        "type": ["Grass", "Psychic"]
+    },
+    { "id": "104", "name": "Cubone", "imgSrc": "/img/104Cubone.png", "type": ["Ground"] },
+    { "id": "105", "name": "Marowak", "imgSrc": "/img/105Marowak.png", "type": ["Ground"] },
+    { "id": "106", "name": "Hitmonlee", "imgSrc": "/img/106Hitmonlee.png", "type": ["Fighting"] },
+    { "id": "107", "name": "Hitmonchan", "imgSrc": "/img/107Hitmonchan.png", "type": ["Fighting"] },
+    { "id": "108", "name": "Lickitung", "imgSrc": "/img/108Lickitung.png", "type": ["Normal"] },
+    { "id": "109", "name": "Koffing", "imgSrc": "/img/109Koffing.png", "type": ["Poison"] },
+    { "id": "110", "name": "Weezing", "imgSrc": "/img/110Weezing.png", "type": ["Poison"] },
+    { "id": "111", "name": "Rhyhorn", "imgSrc": "/img/111Rhyhorn.png", "type": ["Ground", "Rock"] },
+    { "id": "112", "name": "Rhydon", "imgSrc": "/img/112Rhydon.png", "type": ["Ground", "Rock"] },
+    { "id": "113", "name": "Chansey", "imgSrc": "/img/113Chansey.png", "type": ["Normal"] },
+    { "id": "114", "name": "Tangela", "imgSrc": "/img/114Tangela.png", "type": ["Grass"] },
+    { "id": "115", "name": "Kangaskhan", "imgSrc": "/img/115Kangaskhan.png", "type": ["Normal"] },
+    { "id": "116", "name": "Horsea", "imgSrc": "/img/116Horsea.png", "type": ["Water"] },
+    { "id": "117", "name": "Seadra", "imgSrc": "/img/117Seadra.png", "type": ["Water"] },
+    { "id": "118", "name": "Goldeen", "imgSrc": "/img/118Goldeen.png", "type": ["Water"] },
+    { "id": "119", "name": "Seaking", "imgSrc": "/img/119Seaking.png", "type": ["Water"] },
+    { "id": "120", "name": "Staryu", "imgSrc": "/img/120Staryu.png", "type": ["Water"] },
+    {
+        "id": "121",
+        "name": "Starmie",
+        "imgSrc": "/img/121Starmie.png",
+        "type": ["Water", "Psychic"]
+    },
+    {
+        "id": "122",
+        "name": "Mr. Mime",
+        "imgSrc": "/img/122Mr_Mime.png",
+        "type": ["Psychic", "Fairy"]
+    },
+    { "id": "123", "name": "Scyther", "imgSrc": "/img/123Scyther.png", "type": ["Bug", "Flying"] },
+    { "id": "124", "name": "Jynx", "imgSrc": "/img/124Jynx.png", "type": ["Ice", "Psychic"] },
+    { "id": "125", "name": "Electabuzz", "imgSrc": "/img/125Electabuzz.png", "type": ["Electric"] },
+    { "id": "126", "name": "Magmar", "imgSrc": "/img/126Magmar.png", "type": ["Fire"] },
+    { "id": "127", "name": "Pinsir", "imgSrc": "/img/127Pinsir.png", "type": ["Bug"] },
+    { "id": "128", "name": "Tauros", "imgSrc": "/img/128Tauros.png", "type": ["Normal"] },
+    { "id": "129", "name": "Magikarp", "imgSrc": "/img/129Magikarp.png", "type": ["Water"] },
+    {
+        "id": "130",
+        "name": "Gyarados",
+        "imgSrc": "/img/130Gyarados.png",
+        "type": ["Water", "Flying"]
+    },
+    { "id": "131", "name": "Lapras", "imgSrc": "/img/131Lapras.png", "type": ["Water", "Ice"] },
+    { "id": "132", "name": "Ditto", "imgSrc": "/img/132Ditto.png", "type": ["Normal"] },
+    { "id": "133", "name": "Eevee", "imgSrc": "/img/133Eevee.png", "type": ["Normal"] },
+    { "id": "134", "name": "Vaporeon", "imgSrc": "/img/134Vaporeon.png", "type": ["Water"] },
+    { "id": "135", "name": "Jolteon", "imgSrc": "/img/135Jolteon.png", "type": ["Electric"] },
+    { "id": "136", "name": "Flareon", "imgSrc": "/img/136Flareon.png", "type": ["Fire"] },
+    { "id": "137", "name": "Porygon", "imgSrc": "/img/137Porygon.png", "type": ["Normal"] },
+    { "id": "138", "name": "Omanyte", "imgSrc": "/img/138Omanyte.png", "type": ["Rock", "Water"] },
+    { "id": "139", "name": "Omastar", "imgSrc": "/img/139Omastar.png", "type": ["Rock", "Water"] },
+    { "id": "140", "name": "Kabuto", "imgSrc": "/img/140Kabuto.png", "type": ["Rock", "Water"] },
+    {
+        "id": "141",
+        "name": "Kabutops",
+        "imgSrc": "/img/141Kabutops.png",
+        "type": ["Rock", "Water"]
+    },
+    {
+        "id": "142",
+        "name": "Aerodactyl",
+        "imgSrc": "/img/142Aerodactyl.png",
+        "type": ["Rock", "Flying"]
+    },
+    { "id": "143", "name": "Snorlax", "imgSrc": "/img/143Snorlax.png", "type": ["Normal"] },
+    {
+        "id": "144",
+        "name": "Articuno",
+        "imgSrc": "/img/144Articuno.png",
+        "type": ["Ice", "Flying"]
+    },
+    {
+        "id": "145",
+        "name": "Zapdos",
+        "imgSrc": "/img/145Zapdos.png",
+        "type": ["Electric", "Flying"]
+    },
+    { "id": "146", "name": "Moltres", "imgSrc": "/img/146Moltres.png", "type": ["Fire", "Flying"] },
+    { "id": "147", "name": "Dratini", "imgSrc": "/img/147Dratini.png", "type": ["Dragon"] },
+    { "id": "148", "name": "Dragonair", "imgSrc": "/img/148Dragonair.png", "type": ["Dragon"] },
+    {
+        "id": "149",
+        "name": "Dragonite",
+        "imgSrc": "/img/149Dragonite.png",
+        "type": ["Dragon", "Flying"]
+    },
+    { "id": "150", "name": "Mewtwo", "imgSrc": "/img/150Mewtwo.png", "type": ["Psychic"] },
+    { "id": "151", "name": "Mew", "imgSrc": "/img/151Mew.png", "type": ["Psychic"] }
+]
