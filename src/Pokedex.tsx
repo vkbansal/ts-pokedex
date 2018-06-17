@@ -1,11 +1,28 @@
-import React from 'react';
-import cx from 'classnames';
-import { Link, withRouter } from 'react-router-dom';
+import * as React from 'react';
+import { Link, withRouter, RouteComponentProps } from 'react-router-dom';
 
 import Pokemon from './Pokemon';
+import { Pokemon as PokemonData } from '../pokedex';
 
-export class Pokedex extends React.Component {
-    constructor(props) {
+export interface PokedexProps {
+    data: PokemonData[];
+}
+
+export interface PokedexState {
+    limit: number;
+}
+
+export interface RouteParams {
+    page: string;
+}
+
+export type AllPokedexProps = PokedexProps & RouteComponentProps<RouteParams>;
+
+export class Pokedex extends React.Component<
+    PokedexProps & RouteComponentProps<RouteParams>,
+    PokedexState
+> {
+    constructor(props: AllPokedexProps) {
         super(props);
 
         this.state = {
@@ -15,8 +32,8 @@ export class Pokedex extends React.Component {
         this.handleLimitChange = this.handleLimitChange.bind(this);
     }
 
-    handleLimitChange(e) {
-        const { value } = e.target;
+    handleLimitChange(e: React.FormEvent<HTMLSelectElement>) {
+        const { value } = e.target as HTMLSelectElement;
 
         this.setState({
             limit: parseInt(value, 10)

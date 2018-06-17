@@ -1,9 +1,9 @@
 import * as React from 'react';
 
-import { Pokemon } from '../pokedex';
+import { Pokemon as PokemonData } from '../pokedex';
 
 export interface PokemonProps {
-    data: Pokemon;
+    data: PokemonData;
 }
 
 export default function Pokemon(props: PokemonProps) {

@@ -2,7 +2,7 @@ const path = require('path');
 const ForkTsCheckerWebpackPlugin = require('fork-ts-checker-webpack-plugin');
 
 module.exports = {
-    entry: './src/index.js',
+    entry: './src/index.tsx',
     output: {
         filename: 'bundle.js',
         path: __dirname
@@ -10,28 +10,6 @@ module.exports = {
     mode: 'development',
     module: {
         rules: [
-            {
-                test: /\.js$/,
-                use: [
-                    {
-                        loader: 'babel-loader',
-                        options: {
-                            presets: [
-                                'react',
-                                [
-                                    'env',
-                                    {
-                                        modules: false,
-                                        targets: {
-                                            browsers: 'last 2 versions'
-                                        }
-                                    }
-                                ]
-                            ]
-                        }
-                    }
-                ]
-            },
             {
                 test: /.tsx?$/,
                 use: [

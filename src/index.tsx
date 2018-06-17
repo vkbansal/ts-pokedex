@@ -1,6 +1,6 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import { HashRouter as Router, Route, Redirect, Switch } from 'react-router-dom';
+import * as React from 'react';
+import * as ReactDOM from 'react-dom';
+import { HashRouter as Router, Route, Switch } from 'react-router-dom';
 
 import Page from './Page';
 
@@ -10,6 +10,6 @@ const App = (
             <Route path="/:page?" exact component={Page} />
         </Switch>
     </Router>
-)
+);
 
 ReactDOM.render(App, document.getElementById('container'));
